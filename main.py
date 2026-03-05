@@ -1,4 +1,4 @@
 print(yaakov_greeting)
 
 
-print(hi mendi)
+print("hi mendi")
